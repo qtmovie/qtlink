@@ -7,7 +7,7 @@ class Config(object):
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "Fgggffd_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002036697162"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "seturl.in")
-  SHORTLINK_API = os.environ.get('SHORTLINK_API', "9fa91760338da37a32cd359a08602a64e80e920a")
+  SHORTLINK_API = os.environ.get('SHORTLINK_API', "ab1fd6911760a2d2990f55806399c910999e1af1")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "6624919731"))
   DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://qtmovie99:7gMCva3UFeEgHlP2@cluster0.qve685d.mongodb.net/?retryWrites=true&w=majority")
   UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "0")
