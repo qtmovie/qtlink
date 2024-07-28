@@ -5,7 +5,7 @@ class Config(object):
   API_HASH = os.environ.get("API_HASH", "10effb30531c66d27b90f1e07f6bd071")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6626267093:AAHwURag8QZZEY1p_8hJsMZblBuyr4N89GQ")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "qlink_bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002011038623"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002149954953"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "api.shareus.io")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "X8KgVEykIqhQIXefXcmrJb9aSPt2")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "6624919731"))
